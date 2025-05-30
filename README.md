@@ -58,13 +58,20 @@ RECIPIENT_EMAIL=someone@example.com
 streamlit run app.py
 ```
 
-### Example Flow
+## 🧪 Example Flow
 
-Type a customer query (e.g. “I forgot my password”)
-Click 🧠 Generate Reply
-Edit the reply if needed
-Click 📤 Send Email
-Done! Email gets delivered to the customer inbox
+Follow these simple steps:
+
+1. Type a customer query (e.g. “I forgot my password”)
+
+2. Click **🧠 Generate Reply**
+
+3. Edit the reply if needed
+
+4. Click **📤 Send Email**
+
+5. Done! Email gets delivered to the customer inbox
+
 
 📄 License
 
