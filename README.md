@@ -53,3 +53,24 @@ ACS_SENDER_EMAIL=DoNotReply@your-resource.communication.azure.com
 RECIPIENT_EMAIL=someone@example.com
 ```
 
+### 4. Run the app
+```bash
+streamlit run app.py
+```
+
+### Example Flow
+
+Type a customer query (e.g. “I forgot my password”)
+Click 🧠 Generate Reply
+Edit the reply if needed
+Click 📤 Send Email
+Done! Email gets delivered to the customer inbox
+
+📄 License
+
+MIT License. Free to use, modify, and share.
+
+👨‍💻 Author
+
+Made with ❤️ by Farhan Hussain
+
