@@ -37,3 +37,10 @@ This is a simple web app that uses **Azure OpenAI** to generate customer support
 ```bash
 git clone https://github.com/your-username/ai-support-email-demo.git
 cd ai-support-email-demo
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+
