@@ -1,0 +1,6 @@
+#to install the required packages, run:
+# pip install -r requirements.txt
+streamlit
+python-dotenv
+openai
+azure-communication-email
