@@ -39,8 +39,17 @@ git clone https://github.com/your-username/ai-support-email-demo.git
 cd ai-support-email-demo
 ```
 
-### Install dependencies
+### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 3. Create a .env file
+```bash
+OPENAI_API_KEY=your_azure_openai_key
+OPENAI_ENDPOINT=https://your-openai-resource.openai.azure.com/
+ACS_CONNECTION_STRING=endpoint=https://your-resource.communication.azure.com/;accesskey=your_key
+ACS_SENDER_EMAIL=DoNotReply@your-resource.communication.azure.com
+RECIPIENT_EMAIL=someone@example.com
 ```
 
