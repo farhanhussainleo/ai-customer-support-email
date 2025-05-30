@@ -79,5 +79,5 @@ MIT License. Free to use, modify, and share.
 
 👨‍💻 Author
 
-Made with ❤️ by Farhan Hussain
+Made with ❤️ by [Farhan Hussain](https://www.schoolofmachinelearning.com)
 
