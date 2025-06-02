@@ -57,7 +57,7 @@ RECIPIENT_EMAIL=someone@example.com
 ```bash
 streamlit run app.py
 ```
-### 5. Run Non-UI app
+### 5. Run Non-UI app (optional)
 
 If you prefer to run via terminal and want a non-UI setup:
 
