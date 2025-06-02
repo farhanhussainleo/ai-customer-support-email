@@ -39,19 +39,19 @@ This is a simple web app that uses **Azure OpenAI** to generate customer support
 - An Azure OpenAI Resource and Deployed Model. [Instructions](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal).
 - Python 3.7 and above.
 
-### 1. Clone this repo
+### 2. Clone this repo
 
 ```bash
 git clone https://github.com/your-username/ai-support-email-demo.git
 cd ai-support-email-demo
 ```
 
-### 2. Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Create a .env file
+### 4. Create a .env file
 ```bash
 OPENAI_API_KEY=your_azure_openai_key
 OPENAI_ENDPOINT=https://your-openai-resource.openai.azure.com/
@@ -60,11 +60,11 @@ ACS_SENDER_EMAIL=DoNotReply@your-resource.communication.azure.com
 RECIPIENT_EMAIL=someone@example.com
 ```
 
-### 4. Run the app
+### 5. Run the app
 ```bash
 streamlit run app.py
 ```
-### 5. Run Non-UI app (optional)
+### 6. Run Non-UI app (optional)
 
 If you prefer to run via terminal and want a non-UI setup:
 
