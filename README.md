@@ -15,7 +15,7 @@ This is a simple web app that uses **Azure OpenAI** to generate customer support
 
 ---
 
-## 📸 Demo Preview
+## 📸 Preview
 
 ![screenshot](screenshot.png) <!-- Optional: replace with your own screenshot -->
 
@@ -56,6 +56,25 @@ RECIPIENT_EMAIL=someone@example.com
 ### 4. Run the app
 ```bash
 streamlit run app.py
+```
+### 5. Run Non-UI app
+
+If you prefer to run via terminal and want a non-UI setup:
+
+1. Navigate to your folder:
+```bash
+cd path/to/your/project
+```
+2. Activate your environment
+```bash
+source venv/bin/activate   # macOS/Linux
+# or
+.\venv\Scripts\activate     # Windows
+```
+
+3. Run the python file:
+```bash
+python nonUI.py
 ```
 
 ## 🧪 Example Flow
