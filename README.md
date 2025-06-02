@@ -32,6 +32,13 @@ This is a simple web app that uses **Azure OpenAI** to generate customer support
 
 ## 🛠 Setup
 
+### 1. Prerequisites
+
+- An Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/en-us/).
+- A deployed Communication Services resource. [Create a Communication Services resource](https://docs.microsoft.com/azure/communication-services/quickstarts/create-communication-resource).
+- An Azure OpenAI Resource and Deployed Model. [Instructions](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal).
+- Python 3.7 and above.
+
 ### 1. Clone this repo
 
 ```bash
