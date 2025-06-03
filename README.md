@@ -15,9 +15,10 @@ This is a simple web app that uses **Azure OpenAI** to generate customer support
 
 ---
 
-## 📸 Preview
+## 📸 Demo Video
 
-![screenshot](screenshot.png) <!-- Optional: replace with your own screenshot -->
+[![Watch the video](screenshot.png)](https://www.youtube.com/watch?v=MKXuMtf7L7g)
+ <!-- Optional: replace with your own screenshot -->
 
 ---
 
