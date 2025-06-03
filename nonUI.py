@@ -35,7 +35,7 @@ def main():
     # === Azure Communication Services Email Sending ===
     acs_connection_string = os.getenv("ACS_CONNECTION_STRING")
     acs_sender_email      = os.getenv("ACS_SENDER_EMAIL")
-    recipient_email       = os.getenv("RECIPIENT_EMAIL", "farhanleo23@gmail.com")
+    recipient_email       = os.getenv("RECIPIENT_EMAIL", "test@example.com")
 
     email_client = EmailClient.from_connection_string(acs_connection_string)
 
