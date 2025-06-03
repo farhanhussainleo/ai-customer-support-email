@@ -43,8 +43,8 @@ This is a simple web app that uses **Azure OpenAI** to generate customer support
 ### 2. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/ai-support-email-demo.git
-cd ai-support-email-demo
+git clone https://github.com/<your-username>/ai-customer-support-email.git
+cd ai-customer-support-email
 ```
 
 ### 3. Install dependencies
